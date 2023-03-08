@@ -1,0 +1,14 @@
+[
+	{
+		"username": "user one",
+		"password": "useronepassword",
+		"email": "userone@gmail.com",
+		"timetable": [1, 2, 3, 4, 5]
+	},
+	{
+		"username": "user two",
+		"password": "usertwopassword",
+		"email": "usertwo@gmail.com",
+		"timetable": [6, 7, 8, 9, 10]
+	}
+]
