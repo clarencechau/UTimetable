@@ -7,7 +7,7 @@ trivial to make plans with large friend groups where everyone has different sche
 time to study together, or make a meeting for clubs, etc.
 
 # How to install the program
-To install this program, import this project into your Intellij editor.
+To install this program, import this project into your IntelliJ editor.
 
 # How to run the program
 - To start the program, run the client page and wait until the sign in and sign up page pops up. 
